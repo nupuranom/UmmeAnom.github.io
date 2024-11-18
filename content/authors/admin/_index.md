@@ -55,7 +55,7 @@ education:
   - area: Secondary School Certificate
     institution: Ramgarh Girls School
     date_start: 2016-01-7
-    date_end: 2018-2-10
+    date_end: 2018-02-10
     summary: |
       Completed with a specialization in Science.
 
