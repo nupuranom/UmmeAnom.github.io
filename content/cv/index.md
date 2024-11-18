@@ -2,14 +2,14 @@
 title: "Curriculum Vitae"
 type: "cv"
 date: 2024-11-17
-summary: "A Front-End Developer with a strong academic foundation and a passion for crafting intuitive web solutions."
+summary: "Aspiring Data Scientist with a Passion for Machine Learning, AI, and Data Analytics, Focused on Innovating Solutions and Optimizing Processes."
 draft: false
 ---
 
- ![Faria Sultana Ananya](./avatar.jpg)
+ ![Umme Anom](./avatar.jpg)
  
 
-### **Faria Sultana Ananya** 
+### **Umme Anom** 
 **Computer Science Student, Jahangirnagar University**  
 _"Innovating through technology, crafting seamless user experiences."_  
 
@@ -17,15 +17,15 @@ _"Innovating through technology, crafting seamless user experiences."_
 
 #### **Contact Information**  
 
-- **Email:** parvinsultanaac@gmail.com
-- **Phone:** +880 1973 369 404  
-- **GitHub:**  https://github.com/Ananya394
+- **Email:** ummeanom@gmail.com
+- **Phone:** +880 1326 589 914  
+- **GitHub:**  https://github.com/nupuranom
 
 ---
 
 #### **Profile**  
 
-A proactive and detail-oriented Computer Science student with a growing expertise in front-end development and cybersecurity. I am committed to mastering modern web technologies and solving complex problems while delivering user-centered solutions.
+A passionate student of the CSE department with a focus on Machine Learning, AI, and Data Science, dedicated to developing innovative solutions and leveraging data to optimize processes and drive advancements.
 
 
 ---
@@ -36,20 +36,20 @@ A proactive and detail-oriented Computer Science student with a growing expertis
   Jahangirnagar University  
 
 - **Higher Secondary Certificate (HSC)**  
-  Ghatail Cantonment PUblic School and College(2020)-
-  gpa 5.00-Dhaka Board
+  Ramgarh Govt. and College(2020)-
+  gpa 5.00-Chattogram Board
 
 - **Secondary School Certificate (SSC)**  
-  Ghatail Gono Pailot High School(2018)-
-  gpa 5.00-Dhaka Board
+  Ramgarh Girls' School(2018)-
+  gpa 5.00-Chattogram Board
 
 ---
 
 #### **Skills**  
 
 - **Web Technologies:** HTML, CSS, JavaScript, React  
-- **Frameworks:** Bootstrap, Tailwind CSS  
-- **Tools:** Git, Visual Studio Code, Figma, Webpack  
+- **Frameworks:** Bootstrap, Pandas,Numpy  
+- **Tools:** Git, Visual Studio Code, Figma  
 - **Languages:** Bengali (native), English (proficient). 
 
 ---
@@ -63,14 +63,13 @@ A proactive and detail-oriented Computer Science student with a growing expertis
 **2.Acitivity Tracker**  
 - Implement a system which is related to student and teacher to keep updated of thier daily work and keep track of thier business.Moreover they can efficently use their time.  
 
-**3. Priyo Website**  
-- It is basically a clone of Priyo website.Priyo.com is a prominent Bangladeshi online portal that serves as a hub for news, information, and various digital services.
+**3. Jotno(E-Daycare)**  
+- A conceptual daycare management system featuring child monitoring, attendance, and alerts using Obejct Oriented Analysis and Design.
 
 ---
 
 #### **Certifications**  
-
-- Front-End Development Certificate, FreeCodeCamp  
+ 
 - Responsive Web Design Certificate, FreeCodeCamp
 
 ---
