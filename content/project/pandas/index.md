@@ -1,6 +1,6 @@
 ---
 title: Experience the Future of Gaming with Our Advanced VR Headset
-date: 2023-10-26
+date: 2024-10-26
 external_link: https://github.com/nupuranom/Lab-10/tree/main/Build%20a%20Product%20Landing%20Page
 tags:
   - Hugo

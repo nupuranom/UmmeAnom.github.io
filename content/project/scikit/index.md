@@ -1,6 +1,6 @@
 ---
 title: Tribute to Marie Curie
-date: 2023-10-26
+date: 2024-10-15
 external_link: https://github.com/nupuranom/Lab_08/tree/main/TributePage
 tags:
   - Hugo
