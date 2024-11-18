@@ -1,6 +1,6 @@
 ---
 title: Responsive Web Design Certification
-date: 2024-10-17
+date: 2024-11-06
 external_link: https://www.freecodecamp.org/certification/UmmeAnom/responsive-web-design
 tags:
   
