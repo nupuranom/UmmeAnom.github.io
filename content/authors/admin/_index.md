@@ -51,17 +51,17 @@ education:
     date_start: 2018-01-01
     date_end: 2020-12-31
     summary: |
-      Completed with a specialization in Science.
+      GPA:5.00
   - area: Secondary School Certificate
     institution: Ramgarh Girls School
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Completed with a specialization in Science.
+     GPA:5.00
 
 # Projects
 projects:
-  - name: Expense Tracker
+  - name: Expense Manager
     description: |
       A project developed in C++ to manage and track daily expenses.
   - name: Activity Tracker
@@ -122,4 +122,4 @@ languages:
 ---
 # About Me
 
-Umme Anom is pursuing a degree in Computer Science and Engineering at Jahangirnagar University with a keen interest in Machine Learning, Artificial Intelligence, and Data Science. Passionate about innovative technologies and problem-solving, Anom enjoys working on projects that explore new methods in AI and data analytics. In her free time, she loves cooking and crafting.
+I am pursuing a degree in Computer Science and Engineering with a keen interest in Machine Learning, Artificial Intelligence, and Data Science. Passionate about innovative technologies and problem-solving, I enjoy working on projects that explore new methods in AI and data analytics. In my free time, I love cooking and crafting.
