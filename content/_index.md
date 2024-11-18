@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+ - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -18,6 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
+    
     design:
       css_class: dark
       background:
@@ -35,10 +36,11 @@ sections:
       title: '📚 My Goal'
       subtitle: ''
       text: |-
-        I am committed to becoming a proficient data scientist, specializing in data processing and machine learning. My objective is to leverage the power of 
-   data to extract meaningful insights, develop innovative solutions, and drive impactful advancements across diverse industries.
-    With a strong foundation in analytical methodologies and programming, I am focused on exploring the transformative potential of machine learning and artificial intelligence in optimizing processes, enhancing decision-making, and solving complex challenges. I continuously strive to expand my knowledge and refine my expertise to excel in the evolving field of data science.
-I welcome opportunities for collaboration to push the boundaries of innovation and create meaningful impact.
+       As a Computer Science student, I aim to build a strong technical foundation and specialize in cybersecurity to create impactful solutions for data safety. My focus is on gaining hands-on experience, contributing to innovative projects, and preparing to make a meaningful impact in the tech industry.
+    
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
