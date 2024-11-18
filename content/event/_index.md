@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: My Certificate
 cms_exclude: true
 #url: talk
 
