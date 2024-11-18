@@ -11,7 +11,7 @@ draft: false
 
 ### **Umme Anom** 
 **Computer Science Student, Jahangirnagar University**  
-_"Innovating through technology, crafting seamless user experiences."_  
+_"Aspiring Data Scientist with a Passion for Machine Learning, AI, and Data Analytics, Focused on Innovating Solutions and Optimizing Processes."_  
 
 ---
 
