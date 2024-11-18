@@ -13,8 +13,8 @@ main:
   #- name: Talks
   # url: talks/
   # weight: 12
-  #- name: News
- ##  weight: 13
+  # - name: News
+  #  weight: 13
   - name: Experience
     url: experience/
     weight: 20
