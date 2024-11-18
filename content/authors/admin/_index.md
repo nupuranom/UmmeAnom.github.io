@@ -2,8 +2,7 @@
 # Display name
 title: Umme Anom 
 
-# Name pronunciation (optional)
-name_pronunciation: Umme Anom
+
 
 # Full name (for SEO)
 first_name: Umme
