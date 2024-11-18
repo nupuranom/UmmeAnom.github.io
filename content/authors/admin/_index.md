@@ -48,14 +48,14 @@ education:
       Current student with a focus on Machine Learning and Artificial Intelligence.
   - area: Higher Secondary Certificate
     institution: Ramgarh Government College
-    date_start: 2018
-    date_end: 2020
+    date_start: 2018-05-20
+    date_end: 2020-08-12
     summary: |
       Completed with a specialization in Science.
   - area: Secondary School Certificate
     institution: Ramgarh Girls School
-    date_start: 2016
-    date_end: 2018
+    date_start: 2016-01-7
+    date_end: 2018-2-10
     summary: |
       Completed with a specialization in Science.
 
