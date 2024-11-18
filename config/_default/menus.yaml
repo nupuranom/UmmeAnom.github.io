@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: cv
- # url: cv/
+  url: cv/
    # weight: 12
   # - name: News
   #  weight: 13
