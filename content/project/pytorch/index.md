@@ -1,7 +1,7 @@
 ---
-title: PyTorch
+title: Survey Form
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/nupuranom/Survey_From
 tags:
   - Hugo
   - Wowchemy
