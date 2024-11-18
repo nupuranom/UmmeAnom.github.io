@@ -6,7 +6,7 @@ summary: "A Front-End Developer with a strong academic foundation and a passion 
 draft: false
 ---
 
- ![Faria Sultana Ananya](./IMG_20200504_203259_610.jpg)
+ ![Faria Sultana Ananya](./avatar.jpg)
  
 
 ### **Faria Sultana Ananya** 
