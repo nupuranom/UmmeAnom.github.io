@@ -11,7 +11,7 @@ math: false
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="./avatar.jpg" alt="Humaira Afnan" style="width: 200px; height: auto; margin-right: 20px;">
+  
   <div>
     <h1>Humaira Afnan</h1>
     <p><em>Student</em></p>
