@@ -35,11 +35,11 @@ sections:
       title: '📚 My Goal'
       subtitle: ''
       text: |-
-        As a Computer Science student, I aim to build a strong technical foundation and specialize in cybersecurity to create impactful solutions for data safety. My focus is on gaining hands-on experience, contributing to innovative projects, and preparing to make a meaningful impact in the tech industry.
+        I am committed to becoming a proficient data scientist, specializing in data processing and machine learning. My objective is to leverage the power of data to extract meaningful insights, develop innovative solutions, and drive impactful advancements across diverse industries.With a strong foundation in analytical methodologies and programming, I am focused on exploring the transformative potential of machine learning and artificial intelligence in optimizing processes, enhancing decision-making, and solving complex challenges.
     
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I continuously strive to expand my knowledge and refine my expertise to excel in the evolving field of data science.
         
-        Please reach out to collaborate 😃
+        I welcome opportunities for collaboration to push the boundaries of innovation and create meaningful impact.
     design:
       columns: '1'
  
