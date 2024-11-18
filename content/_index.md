@@ -35,7 +35,8 @@ sections:
       title: '📚 My Goal'
       subtitle: ''
       text: |-
-        I am committed to becoming a proficient data scientist, specializing in data processing and machine learning. My objective is to leverage the power of data to extract meaningful insights, develop innovative solutions, and drive impactful advancements across diverse industries.
+        I am committed to becoming a proficient data scientist, specializing in data processing and machine learning. My objective is to leverage the power of 
+   data to extract meaningful insights, develop innovative solutions, and drive impactful advancements across diverse industries.
     With a strong foundation in analytical methodologies and programming, I am focused on exploring the transformative potential of machine learning and artificial intelligence in optimizing processes, enhancing decision-making, and solving complex challenges. I continuously strive to expand my knowledge and refine my expertise to excel in the evolving field of data science.
 I welcome opportunities for collaboration to push the boundaries of innovation and create meaningful impact.
     design:
