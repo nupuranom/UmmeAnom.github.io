@@ -21,7 +21,7 @@ highlight_name: true
 role: Student 
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
+organizations:  
   - name: Jahangirnagar University
     url: https://juniv.edu/
 
