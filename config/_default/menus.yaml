@@ -7,7 +7,7 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: cv
+  - name: CV
     url: cv/
    # weight: 12
   # - name: News
