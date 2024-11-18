@@ -12,7 +12,7 @@ main:
    # weight: 12
   # - name: News
   #  weight: 13
-  - name: Experience
+  - name: Qualifications
     url: experience/
     weight: 20
   - name: Projects
