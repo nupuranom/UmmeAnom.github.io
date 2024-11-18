@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Discover the life and legacy of Marie Curie, a pioneer of radioactivity and the first woman to win the Nobel Prize, whose groundbreaking research forever changed the landscape of science.
 
 <!--more-->
