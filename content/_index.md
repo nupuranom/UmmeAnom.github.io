@@ -35,11 +35,11 @@ sections:
       title: '📚 My Goal'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am committed to becoming a proficient data scientist, specializing in data processing and machine learning. My objective is to leverage the power of data to extract meaningful insights, develop innovative solutions, and drive impactful advancements across diverse industries.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+With a strong foundation in analytical methodologies and programming, I am focused on exploring the transformative potential of machine learning and artificial intelligence in optimizing processes, enhancing decision-making, and solving complex challenges. I continuously strive to expand my knowledge and refine my expertise to excel in the evolving field of data science.
+
+I welcome opportunities for collaboration to push the boundaries of innovation and create meaningful impact.
     design:
       columns: '1'
   - block: collection
