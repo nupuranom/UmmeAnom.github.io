@@ -75,11 +75,11 @@ skills:
   - name: Programming Languages
     items:
       - name: C
-        description: ''
+      #  description: ''
         percent: 80
         icon: code-bracket
       - name: C++
-        description: ''
+      #  description: ''
         percent: 90
         icon: code-bracket
       - name: Java
